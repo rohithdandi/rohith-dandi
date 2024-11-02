@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import dp from "../artifacts/dp3.png";
 
 const About = () => {

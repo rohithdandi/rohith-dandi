@@ -14,7 +14,7 @@ const projects = () => {
         backgroundPosition: "top left,center",
       }}
     >
-      <div className="flex mx-auto border-solid border-x-8 border-b-[40px] border-[#191919] text-[#f9f4f0] w-full sm:w-3/4">
+      <div className="flex mx-auto border-solid border-x-8 border-b-[40px] border-[#191919] text-[#f9f4f0] w-full sm:w-3/4 ">
         <div className="flex-1 flex-col w-full">
           <div className="flex flex-col justify-center items-center p-4">
             <div
@@ -47,7 +47,7 @@ const projects = () => {
                 </p>
                 <div className="flex">
                   <a
-                    className="ml-auto px-2 py-1 border rounded-md border-[#f9f4f0] text-[#f9f4f0] font-bold hover:bg-gray-800"
+                    className="ml-auto px-2 py-1 border rounded-md border-[#f9f4f0] text-[#f9f4f0] font-bold hover:shadow-[0_0px_40px_-7px_rgba(255,255,255,0.5)] transition-transform transform hover:scale-105"
                     href="https://github.com/dandirohith/Multi-Stage-Deep-Learning-Project"
                   >
                     Code
@@ -72,7 +72,7 @@ const projects = () => {
                 </p>
                 <div className="flex">
                   <a
-                    className="ml-auto px-2 py-1 border rounded-md border-[#f9f4f0] text-[#f9f4f0] font-bold hover:bg-gray-800"
+                    className="ml-auto px-2 py-1 border rounded-md border-[#f9f4f0] text-[#f9f4f0] font-bold hover:shadow-[0_0px_40px_-7px_rgba(255,255,255,0.5)] transition-transform transform hover:scale-105"
                     href="https://github.com/dandirohith/Explainable-Face-Recognition-XFR"
                   >
                     Code
@@ -82,7 +82,7 @@ const projects = () => {
               <div className="flex items-center">
                 <a
                   href="/allprojects"
-                  className="flex items-center px-2 py-1 border rounded-md border-[f9f4f0] font-bold text-[#f9f4f0] hover:bg-gray-800"
+                  className="flex items-center px-2 py-1 border rounded-md border-[f9f4f0] font-bold text-[#f9f4f0] hover:shadow-[0_0px_40px_-7px_rgba(255,255,255,0.5)] transition-transform transform hover:scale-105"
                 >
                   View More
                   <span className="ml-2">
@@ -104,6 +104,14 @@ const projects = () => {
                 </p>
               </div>
             </div>
+            <a target="_blank">
+              <img
+                src="https://hitwebcounter.com/counter/counter.php?page=17188419&style=0006&nbdigits=4&type=ip&initCount=0"
+                title="Counter Widget"
+                Alt="Visit counter"
+                border="0"
+              />
+            </a>
           </div>
         </div>
       </div>

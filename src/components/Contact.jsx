@@ -24,13 +24,14 @@ const Contact = () => {
           <p className="font-mono text-[15px]">
             © 2024 Rohith Dandi. All Rights Reserved.
           </p>
+
           <div className="flex flex-1 text-[#a2b2bc] text-[15px]">
             <h2 className="font-mono">Made with </h2>
             <h2 className="text-danger"> ❤ </h2>
             <h2 className="font-mono">Designed and Built from Scratch!</h2>
           </div>
           <div className="flex flex-row w-[250px] justify-evenly mt-2">
-            <a href="https://github.com/dandirohith">
+            <a href="https://github.com/rohithdandi">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-5 w-5"
@@ -41,7 +42,7 @@ const Contact = () => {
               </svg>
             </a>
 
-            <a href="https://github.com/dandirohith">
+            <a href="https://github.com/rohithdandi">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-5 w-5"
@@ -63,7 +64,7 @@ const Contact = () => {
               </svg>
             </a>
 
-            <a href="https://github.com/dandirohith">
+            <a href="https://github.com/rohithdandi">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-5 w-5"
