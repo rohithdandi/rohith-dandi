@@ -108,7 +108,6 @@ const projects = () => {
               <img
                 src="https://hitwebcounter.com/counter/counter.php?page=17189459&style=0006&nbdigits=4&type=ip&initCount=0"
                 title="Counter Widget"
-                Alt="Visit counter For Websites"
                 border="0"
               />
             </a>
